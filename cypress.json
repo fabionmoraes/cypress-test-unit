@@ -1,0 +1,30 @@
+{
+    "viewportWidth": 1280,
+    "viewportHeight": 800,
+    "env": {
+      "url": "http://localhost:3000",
+      "profile": {
+        "identifier": "55654173413",
+        "password": "123123",
+        "name": "Fabio Teste",
+        "phone": "85999692440",
+        "birthdate": "2005-02-05",
+        "address": {
+          "postal_code": "60160280",
+          "address": "Rua Costa Barros, 120",
+          "neighborhood": "Aldeota",
+          "city": "Fortaleza",
+          "country": "Brasil"
+        },
+        "payment": {
+          "cardNumber": "5573431112509388",
+          "cardName": "Fabio Moraes",
+          "cardMonth": "12",
+          "cardYear": "2023",
+          "cardCvc": "123"
+        }
+      }
+    },
+    "projectId": "xhg4xr"
+  }
+  
